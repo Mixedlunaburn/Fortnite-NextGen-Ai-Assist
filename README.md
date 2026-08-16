@@ -119,3 +119,8 @@ The software relies exclusively on Windows Desktop API pixel capture. It does no
 `gameplay-analysis`, `fortnite-chapter7`, `yolov8`, `automation`, `automation-framework`, `real-time-processing`, `computer-vision`, `object-detection` , `fortnite-best`  , `fortnite-top`  , `fortnite-free-ai` , `fortnite-2026-hack` 
 
 
+
+
+<!-- update: A -->
+
+> 💡 *IT Quote:* "_First, solve the problem. Then, write the code. – John Johnson_"
