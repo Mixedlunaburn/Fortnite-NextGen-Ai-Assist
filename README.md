@@ -121,6 +121,6 @@ The software relies exclusively on Windows Desktop API pixel capture. It does no
 
 
 
-<!-- update: B -->
+<!-- update: A -->
 
-> 💡 *IT Quote:* "_Make it work, make it right, make it fast. – Kent Beck_"
+> 💡 *IT Quote:* "_Talk is cheap. Show me the code. – Linus Torvalds_"
